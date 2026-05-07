@@ -46,11 +46,11 @@ The project provides both a responsive web application and a mobile application 
 ### Mobile Application
 
 <div align="center">
-  <img src="Splash.png" width="250" alt="Splash Screen"/>
-  <img src="1 Home.png" width="250" alt="Home"/>
-  <img src="2 Share.png" width="250" alt="Share 1"/>
-  <img src="3 Share.png" width="250" alt="Share 2"/>
-  <img src="4 MyFile.png" width="250" alt="Myfiles"/>
+  <img src="Cryptrix/Splash.png" width="250" alt="Splash Screen"/>
+  <img src="Cryptrix/1 Home.png" width="250" alt="Home"/>
+  <img src="Cryptrix/2 Share.png" width="250" alt="Share 1"/>
+  <img src="Cryptrix/3 Share.png" width="250" alt="Share 2"/>
+  <img src="Cryptrix/4 MyFile.png" width="250" alt="Myfiles"/>
 </div>
 
 
