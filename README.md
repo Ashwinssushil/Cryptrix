@@ -41,7 +41,7 @@ The project provides both a responsive web application and a mobile application 
 ### Web Application
 
 #### 
-![Landing Page](Landing.png)
+![Landing Page](Cryptrix/Landing.png)
 
 ### Mobile Application
 
