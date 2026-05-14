@@ -7,7 +7,7 @@ The project provides both a responsive web application and a mobile application 
 
 ## Cross Platform Support
 
-### Website : https://cryptrix-delta.vercel.app/
+### Website : https://cryptrix-files.vercel.app/
 
 ### Mobile Apk : [Cryptrix.apk](https://drive.google.com/file/d/18pbNkL2QNJDRvnrZLMD6EnSkKQOmrSBa/view?usp=drive_link)
 
